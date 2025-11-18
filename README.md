@@ -1,2 +1,2 @@
 # Portafolio
-Portafolio para subir actividades.
+Portafolio para subir los proyectos realizados
